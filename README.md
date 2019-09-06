@@ -1,4 +1,4 @@
-# vuex-demo 一个简易的登录看视频买视频demo
+# vuex-demo 
 ### 1.什么是Vuex
 
 > 官方定义：
